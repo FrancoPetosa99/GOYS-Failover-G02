@@ -1,0 +1,6 @@
+# backups binarios de RouterOS (solo se versionan los /export en texto)
+*.backup
+# claves reales: nunca al repo
+*.key
+secrets*
+.env
